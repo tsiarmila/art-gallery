@@ -43,10 +43,6 @@ p {
   box-sizing: border-box;
 }
 .comment {
-  /* position: absolute;
-  top: 60px;
-  left: 120%;
-  transform: translateX(-50%); */
   font-size: 24 px;
   color: #B49FBF;
 }
@@ -103,8 +99,6 @@ p {
   transform: rotate(-90deg);
   font-size: 15px;
   line-height: 1.4;
-  /* text-transform: uppercase;
-  opacity: .4; */
 }
 
 a:hover {
